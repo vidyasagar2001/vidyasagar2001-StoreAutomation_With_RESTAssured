@@ -1,0 +1,5 @@
+23:56:09.592 [main] INFO  api.test.UserTests - *************** Creating User ****************
+23:56:12.306 [main] INFO  api.test.UserTests - *************** User is Creatinges***************
+23:56:12.310 [main] INFO  api.test.UserTests - *************** Reading User Info ****************
+23:56:13.413 [main] INFO  api.test.UserTests - *************** Updating User ****************
+23:56:15.697 [main] INFO  api.test.UserTests - *************** Delete User ****************
